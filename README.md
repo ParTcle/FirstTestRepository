@@ -1,7 +1,6 @@
 FirstTestRepository
 ===================
 
-just a Test
 
 
 Bloody Hell 
